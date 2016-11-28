@@ -9,6 +9,7 @@
 | DreamFactory     | php           | -                                                    | [dreamfactory.com](https://www.dreamfactory.com/)               | [github](https://github.com/dreamfactorysoftware/dreamfactory)        | [dreamfactory.com](http://wiki.dreamfactory.com/)            | REST API middleware platform                                       |
 | Swagger          | N/A           | N/A                                                  | [swagger.io](http://swagger.io/)                                | N/A                                                                   | [swagger.io](http://swagger.io/docs/)                        | The world's most popular framework for APIs                        |
 | Swagger Codegen  | java          | [Maven Central](https://oss.sonatype.org/content/repositories/releases/io/swagger/swagger-codegen-cli/) | [swagger.io](http://swagger.io/swagger-codegen/) | [github](https://github.com/swagger-api/swagger-codegen) | [swagger.io](http://swagger.io/docs/#swagger-codegen-documentation-9) | Quickly build APIs by turning your Swagger definition into code |
+| Swagger Editor   | javascript    | [Docker Hub](https://hub.docker.com/r/swaggerapi/swagger-editor/) | [swagger.io](http://swagger.io/swagger-editor/) | [github](https://github.com/swagger-api/swagger-editor) | [swagger.io](http://swagger.io/docs/#swagger-editor-documentation-0) | Web editor to design, define and document RESTful APIs in the Swagger Specifcation |
 
 
 ## Software descriptions
@@ -42,5 +43,10 @@
 
 
 ### Swagger Codegen
+
+**TODO**
+
+
+### Swagger Editor
 
 **TODO**
