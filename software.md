@@ -8,6 +8,7 @@
 | Circus           | python        | [PyPI](https://pypi.python.org/pypi/circus)          | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus)                       | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
 | DreamFactory     | php           | -                                                    | [dreamfactory.com](https://www.dreamfactory.com/)               | [github](https://github.com/dreamfactorysoftware/dreamfactory)        | [dreamfactory.com](http://wiki.dreamfactory.com/)            | REST API middleware platform                                       |
 | Swagger          | N/A           | N/A                                                  | [swagger.io](http://swagger.io/)                                | N/A                                                                   | [swagger.io](http://swagger.io/docs/)                        | The world's most popular framework for APIs                        |
+| Swagger Codegen  | java          | [Maven Central](https://oss.sonatype.org/content/repositories/releases/io/swagger/swagger-codegen-cli/) | [swagger.io](http://swagger.io/swagger-codegen/) | [github](https://github.com/swagger-api/swagger-codegen) | [swagger.io](http://swagger.io/docs/#swagger-codegen-documentation-9) | Quickly build APIs by turning your Swagger definition into code |
 
 
 ## Software descriptions
@@ -38,3 +39,8 @@
   RESTful APIs.
 - The Swagger Specification creates the RESTful contract for your API, detailing all of its resources and operations
   in a human and machine readable format for easy development, discovery, and integration.
+
+
+### Swagger Codegen
+
+**TODO**
