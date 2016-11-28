@@ -7,6 +7,7 @@
 | ---------------- | ------------- | ---------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- |------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Circus           | python        | [PyPI](https://pypi.python.org/pypi/circus)          | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus)                       | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
 | DreamFactory     | php           | -                                                    | [dreamfactory.com](https://www.dreamfactory.com/)               | [github](https://github.com/dreamfactorysoftware/dreamfactory)        | [dreamfactory.com](http://wiki.dreamfactory.com/)            | REST API middleware platform                                       |
+| Swagger          | N/A           | N/A                                                  | [swagger.io](http://swagger.io/)                                | N/A                                                                   | [swagger.io](http://swagger.io/docs/)                        | The world's most popular framework for APIs                        |
 
 
 ## Software descriptions
@@ -28,3 +29,12 @@
 - Enables developers to connect to any data source and instantly get a full palette of secure, reliable, and customizable REST APIs for their projects.
 - Provides granular security controls, server-side scripting with V8 Javascript, Node.js, PHP, and Python, live API documentation, and example apps for iOS, Android, and popular HTML5 and JavaScript frameworks like AngularJS.
 - Runs on Linux, Windows, and Mac OS X, in the cloud of your choice or on premises.
+
+
+### Swagger
+
+- The world's most popular framework for APIs.
+- A powerful framework backed by a large ecosystem of tools that helps you design, build, document, and consume your
+  RESTful APIs.
+- The Swagger Specification creates the RESTful contract for your API, detailing all of its resources and operations
+  in a human and machine readable format for easy development, discovery, and integration.
