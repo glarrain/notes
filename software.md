@@ -3,9 +3,9 @@
 
 ## Software table
 
-| name             | language      | website                                                         | repo                                            | docs                                                         | description                                                        |
-| ---------------- | ------------- | --------------------------------------------------------------- | ----------------------------------------------- |------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Circus           | python        | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus) | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
+| name             | language      | distribution                                         | website                                                         | repo                                            | docs                                                         | description                                                        |
+| ---------------- | ------------- | ---------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------- |------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Circus           | python        | [PyPI](https://pypi.python.org/pypi/circus)          | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus) | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
 
 
 ## Software descriptions
