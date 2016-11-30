@@ -5,6 +5,7 @@
 
 | name             | language      | distribution                                         | website                                                         | repo                                                                  | docs                                                         | description                                                        |
 | ---------------- | ------------- | ---------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- |------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Cyclotron        | javascript    | -                                                    | [cyclotron.io](http://www.cyclotron.io/)                        | [github](https://github.com/ExpediaInceCommercePlatform/cyclotron)    | [cyclotron.io](http://www.cyclotron.io/gettingstarted.html)  | A web application for constructing dashboards                      |
 | Circus           | python        | [PyPI](https://pypi.python.org/pypi/circus)          | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus)                       | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
 | DreamFactory     | php           | -                                                    | [dreamfactory.com](https://www.dreamfactory.com/)               | [github](https://github.com/dreamfactorysoftware/dreamfactory)        | [dreamfactory.com](http://wiki.dreamfactory.com/)            | REST API middleware platform                                       |
 | Swagger          | N/A           | N/A                                                  | [swagger.io](http://swagger.io/)                                | N/A                                                                   | [swagger.io](http://swagger.io/docs/)                        | The world's most popular framework for APIs                        |
@@ -14,6 +15,18 @@
 
 
 ## Software descriptions
+
+
+### Cyclotron
+
+- A browser-based platform for creating and hosting dashboards, independent of any single data source.
+- A batteries-included solution for loading and visualizing data without programming.
+- It's the CMS of dashboarding.
+- It provides standard boilerplate and plumbing, allowing non-programmers to easily create and edit dashboards
+  using customizable components.
+- It has a built-in dashboard editor, and hosts the dashboards directly.
+
+Built by Expedia.
 
 
 ### Circus
