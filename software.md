@@ -9,6 +9,7 @@
 | Circus           | python        | [PyPI](https://pypi.python.org/pypi/circus)          | [readthedocs](http://circus.readthedocs.io/)                    | [github](https://github.com/circus-tent/circus)                       | [readthedocs](http://circus.readthedocs.io/)                 | A Process & Socket Manager built with zmq                          |
 | DreamFactory     | php           | -                                                    | [dreamfactory.com](https://www.dreamfactory.com/)               | [github](https://github.com/dreamfactorysoftware/dreamfactory)        | [dreamfactory.com](http://wiki.dreamfactory.com/)            | REST API middleware platform                                       |
 | Flynn            | go            | -                                                    | [flynn.io](https://flynn.io/)                                   | [github](https://github.com/flynn/flynn)                              | [flynn.io](https://flynn.io/docs/)                           | Next-generation PaaS                                               |
+| Pelican          | python        | [PyPI](https://pypi.python.org/pypi/pelican)         | [getpelican.com](https://blog.getpelican.com)                   | [github](https://github.com/getpelican/pelican)                       | [getpelican.com](http://docs.getpelican.com)                 | A static site generator                                            |
 | Swagger          | N/A           | N/A                                                  | [swagger.io](http://swagger.io/)                                | N/A                                                                   | [swagger.io](http://swagger.io/docs/)                        | The world's most popular framework for APIs                        |
 | Swagger Codegen  | java          | [Maven Central](https://oss.sonatype.org/content/repositories/releases/io/swagger/swagger-codegen-cli/) | [swagger.io](http://swagger.io/swagger-codegen/) | [github](https://github.com/swagger-api/swagger-codegen) | [swagger.io](http://swagger.io/docs/#swagger-codegen-documentation-9) | Quickly build APIs by turning your Swagger definition into code |
 | Swagger Editor   | javascript    | [Docker Hub](https://hub.docker.com/r/swaggerapi/swagger-editor/) | [swagger.io](http://swagger.io/swagger-editor/) | [github](https://github.com/swagger-api/swagger-editor) | [swagger.io](http://swagger.io/docs/#swagger-editor-documentation-0) | Web editor to design, define and document RESTful APIs in the Swagger Specifcation |
@@ -62,6 +63,15 @@ Built by Expedia.
   - Includes built-in Postgres, MySQL, and MongoDB databases with safe, automatic high availability.
   - Connects all your microservices with built-in service discovery.
   - Makes scaling your cluster to just the right size easy so you save money on your cloud bills.
+
+
+### Pelican
+
+A static site generator, written in Python.
+
+- Write content in reStructuredText or Markdown using your editor of choice.
+- Includes a simple command line tool to (re)generate site files.
+- Completely static output is simple to host anywhere.
 
 
 ### Swagger
